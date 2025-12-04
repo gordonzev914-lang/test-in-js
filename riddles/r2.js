@@ -1,0 +1,1 @@
+export const riddle2={name:"Simple math riddle",id:2,taskdescription:"what is 5**3",correctanswer:"125"}
