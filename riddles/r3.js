@@ -1,0 +1,1 @@
+export const riddle3={name:"Simple math riddle",id:3,taskdescription:"What animal says Moo?",correctanswer:1,answers:["Dog", "Cow", "Cat"]}
